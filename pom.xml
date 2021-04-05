@@ -25,11 +25,11 @@
         <spring-boot.version>2.3.0.RELEASE</spring-boot.version>
         <pf4j-spring.version>0.7.0</pf4j-spring.version>
 
-        <flexicore-boot.version>1.0.4</flexicore-boot.version>
-        <flexicore-security-service.version>1.0.5</flexicore-security-service.version>
-        <flexicore-security-model.version>1.0.5</flexicore-security-model.version>
-        <flexicore-boot-dynamic-invokers-model.version>1.0.1</flexicore-boot-dynamic-invokers-model.version>
-        <flexicore-boot-dynamic-invokers-service.version>1.0.2</flexicore-boot-dynamic-invokers-service.version>
+        <flexicore-boot.version>1.1.0</flexicore-boot.version>
+        <flexicore-security-service.version>1.0.6</flexicore-security-service.version>
+        <flexicore-security-model.version>1.0.6</flexicore-security-model.version>
+        <flexicore-boot-dynamic-invokers-model.version>1.0.2</flexicore-boot-dynamic-invokers-model.version>
+        <flexicore-boot-dynamic-invokers-service.version>1.0.3</flexicore-boot-dynamic-invokers-service.version>
         <flexicore-boot-starter-websocket.version>1.0.1</flexicore-boot-starter-websocket.version>
         <flexicore-boot-starter-actuator.version>1.0.0</flexicore-boot-starter-actuator.version>
         <flexicore-boot-starter-web.version>1.0.3</flexicore-boot-starter-web.version>
@@ -41,8 +41,8 @@
         <flexicore-boot-starter-data-rest.version>1.0.1</flexicore-boot-starter-data-rest.version>
         <graphql-flexicore-boot-starter.version>1.0.1</graphql-flexicore-boot-starter.version>
         <flexicore-boot-starter-multipart.version>1.0.0</flexicore-boot-starter-multipart.version>
-        <flexicore-base-model.version>1.0.5</flexicore-base-model.version>
-        <flexicore-base-service.version>1.0.5</flexicore-base-service.version>
+        <flexicore-base-model.version>1.0.6</flexicore-base-model.version>
+        <flexicore-base-service.version>1.0.6</flexicore-base-service.version>
         <flexicore-boot-swagger.version>1.0.0</flexicore-boot-swagger.version>
     </properties>
     <distributionManagement>
