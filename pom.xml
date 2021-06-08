@@ -36,14 +36,17 @@
         <resteasy-flexicore-boot-starter.version>1.0.0</resteasy-flexicore-boot-starter.version>
         <flexicore-boot-vintage.version>1.0.1</flexicore-boot-vintage.version>
         <flexicore-boot-starter-data-jpa.version>1.0.3</flexicore-boot-starter-data-jpa.version>
-        <flexicore-boot-starter-data-jpa-eclipselink.version>1.0.0</flexicore-boot-starter-data-jpa-eclipselink.version>
-        <flexicore-boot-starter-data-jpa-hibernate.version>1.0.1</flexicore-boot-starter-data-jpa-hibernate.version>
+        <flexicore-boot-starter-data-jpa-eclipselink.version>1.0.1</flexicore-boot-starter-data-jpa-eclipselink.version>
+        <flexicore-boot-starter-data-jpa-hibernate.version>1.0.2</flexicore-boot-starter-data-jpa-hibernate.version>
         <flexicore-boot-starter-data-rest.version>1.0.1</flexicore-boot-starter-data-rest.version>
         <graphql-flexicore-boot-starter.version>1.0.1</graphql-flexicore-boot-starter.version>
         <flexicore-boot-starter-multipart.version>1.0.0</flexicore-boot-starter-multipart.version>
-        <flexicore-base-model.version>2.0.0</flexicore-base-model.version>
-        <flexicore-base-service.version>2.0.0</flexicore-base-service.version>
+        <flexicore-base-model.version>2.0.1</flexicore-base-model.version>
+        <flexicore-base-service.version>2.0.1</flexicore-base-service.version>
         <flexicore-boot-swagger.version>1.0.0</flexicore-boot-swagger.version>
+        <dynamic-annoatations-service.version>1.0.0</dynamic-annoatations-service.version>
+        <dynamic-properties-converter-postgresql.version>1.0.0</dynamic-properties-converter-postgresql.version>
+        <dynamic-properties-database-converter.version>1.0.0</dynamic-properties-database-converter.version>
     </properties>
     <distributionManagement>
         <snapshotRepository>
@@ -187,6 +190,21 @@
                 <groupId>org.pf4j</groupId>
                 <artifactId>pf4j-spring</artifactId>
                 <version>${pf4j-spring.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.wizzdi</groupId>
+                <artifactId>dynamic-annoatations-service</artifactId>
+                <version>${dynamic-annoatations-service.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.wizzdi</groupId>
+                <artifactId>dynamic-properties-converter-postgresql</artifactId>
+                <version>${dynamic-properties-converter-postgresql.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.wizzdi</groupId>
+                <artifactId>dynamic-properties-database-converter</artifactId>
+                <version>${dynamic-properties-database-converter.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
