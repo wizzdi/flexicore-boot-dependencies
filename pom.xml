@@ -29,7 +29,7 @@
         <flexicore-security-service.version>1.0.7</flexicore-security-service.version>
         <flexicore-security-model.version>1.0.7</flexicore-security-model.version>
         <flexicore-boot-dynamic-invokers-model.version>1.0.3</flexicore-boot-dynamic-invokers-model.version>
-        <flexicore-boot-dynamic-invokers-service.version>1.0.4</flexicore-boot-dynamic-invokers-service.version>
+        <flexicore-boot-dynamic-invokers-service.version>1.0.5</flexicore-boot-dynamic-invokers-service.version>
         <flexicore-boot-starter-websocket.version>1.0.1</flexicore-boot-starter-websocket.version>
         <flexicore-boot-starter-actuator.version>1.0.0</flexicore-boot-starter-actuator.version>
         <flexicore-boot-starter-web.version>1.0.3</flexicore-boot-starter-web.version>
@@ -42,11 +42,11 @@
         <graphql-flexicore-boot-starter.version>1.0.1</graphql-flexicore-boot-starter.version>
         <flexicore-boot-starter-multipart.version>1.0.0</flexicore-boot-starter-multipart.version>
         <flexicore-base-model.version>2.0.1</flexicore-base-model.version>
-        <flexicore-base-service.version>2.0.1</flexicore-base-service.version>
+        <flexicore-base-service.version>2.0.2</flexicore-base-service.version>
         <flexicore-boot-swagger.version>1.0.0</flexicore-boot-swagger.version>
         <dynamic-annoatations-service.version>1.0.0</dynamic-annoatations-service.version>
         <dynamic-properties-converter-postgresql.version>1.0.0</dynamic-properties-converter-postgresql.version>
-        <dynamic-properties-database-converter.version>1.0.0</dynamic-properties-database-converter.version>
+        <dynamic-properties-database-converter.version>1.0.1</dynamic-properties-database-converter.version>
     </properties>
     <distributionManagement>
         <snapshotRepository>
