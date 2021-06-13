@@ -42,7 +42,7 @@
         <graphql-flexicore-boot-starter.version>1.0.1</graphql-flexicore-boot-starter.version>
         <flexicore-boot-starter-multipart.version>1.0.0</flexicore-boot-starter-multipart.version>
         <flexicore-base-model.version>2.0.2</flexicore-base-model.version>
-        <flexicore-base-service.version>2.0.2</flexicore-base-service.version>
+        <flexicore-base-service.version>2.0.3</flexicore-base-service.version>
         <flexicore-boot-swagger.version>1.0.0</flexicore-boot-swagger.version>
         <dynamic-annoatations-service.version>1.0.0</dynamic-annoatations-service.version>
         <dynamic-properties-converter-postgresql.version>1.0.1</dynamic-properties-converter-postgresql.version>
