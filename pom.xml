@@ -46,7 +46,7 @@
         <flexicore-boot-swagger.version>1.0.0</flexicore-boot-swagger.version>
         <dynamic-annoatations-service.version>1.0.0</dynamic-annoatations-service.version>
         <dynamic-properties-converter-postgresql.version>1.0.1</dynamic-properties-converter-postgresql.version>
-        <dynamic-properties-database-converter.version>1.0.2</dynamic-properties-database-converter.version>
+        <dynamic-properties-database-converter.version>1.0.3</dynamic-properties-database-converter.version>
     </properties>
     <distributionManagement>
         <snapshotRepository>
