@@ -29,7 +29,7 @@
         <flexicore-security-service.version>1.0.7</flexicore-security-service.version>
         <flexicore-security-model.version>1.0.7</flexicore-security-model.version>
         <flexicore-boot-dynamic-invokers-model.version>1.0.3</flexicore-boot-dynamic-invokers-model.version>
-        <flexicore-boot-dynamic-invokers-service.version>1.0.5</flexicore-boot-dynamic-invokers-service.version>
+        <flexicore-boot-dynamic-invokers-service.version>1.0.6</flexicore-boot-dynamic-invokers-service.version>
         <flexicore-boot-starter-websocket.version>1.0.1</flexicore-boot-starter-websocket.version>
         <flexicore-boot-starter-actuator.version>1.0.0</flexicore-boot-starter-actuator.version>
         <flexicore-boot-starter-web.version>1.0.3</flexicore-boot-starter-web.version>
