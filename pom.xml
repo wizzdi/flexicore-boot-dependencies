@@ -28,7 +28,7 @@
         <flexicore-boot.version>1.2.0</flexicore-boot.version>
         <flexicore-boot-starter-web.version>1.1.0</flexicore-boot-starter-web.version>
         <flexicore-boot-starter-data-jpa.version>1.1.0</flexicore-boot-starter-data-jpa.version>
-        <resteasy-flexicore-boot-starter.version>1.1.0</resteasy-flexicore-boot-starter.version>
+        <resteasy-flexicore-boot-starter.version>1.1.1</resteasy-flexicore-boot-starter.version>
         <flexicore-boot-starter-websocket.version>1.1.0</flexicore-boot-starter-websocket.version>
         <flexicore-boot-starter-actuator.version>1.1.0</flexicore-boot-starter-actuator.version>
         <flexicore-boot-starter-multipart.version>1.1.0</flexicore-boot-starter-multipart.version>
@@ -43,7 +43,7 @@
         <flexicore-boot-dynamic-invokers-model.version>1.1.1</flexicore-boot-dynamic-invokers-model.version>
         <flexicore-security-service.version>1.1.1</flexicore-security-service.version>
         <flexicore-security-model.version>1.1.1</flexicore-security-model.version>
-        <flexicore-boot-dynamic-invokers-service.version>1.1.1</flexicore-boot-dynamic-invokers-service.version>
+        <flexicore-boot-dynamic-invokers-service.version>1.1.2</flexicore-boot-dynamic-invokers-service.version>
 
         <flexicore-base-model.version>2.1.0</flexicore-base-model.version>
         <flexicore-base-service.version>2.1.1</flexicore-base-service.version>
