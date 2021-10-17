@@ -35,15 +35,15 @@
         <dynamic-annoatations-service.version>1.1.1</dynamic-annoatations-service.version>
         <flexicore-boot-starter-data-jpa-eclipselink.version>1.1.1</flexicore-boot-starter-data-jpa-eclipselink.version>
         <dynamic-properties-converter-postgresql.version>1.1.1</dynamic-properties-converter-postgresql.version>
-        <dynamic-properties-database-converter.version>1.1.1</dynamic-properties-database-converter.version>
+        <dynamic-properties-database-converter.version>1.1.2</dynamic-properties-database-converter.version>
         <flexicore-boot-starter-data-jpa-hibernate.version>1.1.1</flexicore-boot-starter-data-jpa-hibernate.version>
         <graphql-flexicore-boot-starter.version>1.1.0</graphql-flexicore-boot-starter.version>
         <flexicore-boot-swagger.version>1.1.0</flexicore-boot-swagger.version>
         <flexicore-boot-vintage.version>1.1.0</flexicore-boot-vintage.version>
         <flexicore-boot-dynamic-invokers-model.version>1.1.1</flexicore-boot-dynamic-invokers-model.version>
-        <flexicore-security-service.version>1.1.2</flexicore-security-service.version>
+        <flexicore-security-service.version>1.1.3</flexicore-security-service.version>
         <flexicore-security-model.version>1.1.1</flexicore-security-model.version>
-        <flexicore-boot-dynamic-invokers-service.version>1.1.2</flexicore-boot-dynamic-invokers-service.version>
+        <flexicore-boot-dynamic-invokers-service.version>1.1.3</flexicore-boot-dynamic-invokers-service.version>
 
         <flexicore-base-model.version>2.1.0</flexicore-base-model.version>
         <flexicore-base-service.version>2.1.2</flexicore-base-service.version>
