@@ -45,10 +45,13 @@
         <flexicore-security-model.version>1.1.1</flexicore-security-model.version>
         <flexicore-boot-dynamic-invokers-service.version>1.1.4</flexicore-boot-dynamic-invokers-service.version>
 
-        <flexicore-base-model.version>2.1.0</flexicore-base-model.version>
+        <flexicore-base-model.version>2.1.1</flexicore-base-model.version>
         <flexicore-base-service.version>2.1.4</flexicore-base-service.version>
 
         <flexicore-boot-starter-data-rest.version>1.0.1</flexicore-boot-starter-data-rest.version>
+        <flexicore-common-user-model.version>1.0.0</flexicore-common-user-model.version>
+        <flexicore-common-user-service.version>1.0.0</flexicore-common-user-service.version>
+
 
 
     </properties>
@@ -93,6 +96,16 @@
                 <version>${spring-boot.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.wizzdi</groupId>
+                <artifactId>flexicore-common-user-model</artifactId>
+                <version>${flexicore-common-user-model.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.wizzdi</groupId>
+                <artifactId>flexicore-common-user-service</artifactId>
+                <version>${flexicore-common-user-service.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.wizzdi</groupId>
