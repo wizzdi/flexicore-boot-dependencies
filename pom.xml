@@ -53,7 +53,8 @@
         <flexicore-common-user-service.version>1.0.0</flexicore-common-user-service.version>
 
 
-
+        <flexicore-boot-security-bearer-jwt.version>1.0.1</flexicore-boot-security-bearer-jwt.version>
+        <flexicore-boot-security-adapter.version>1.0.0</flexicore-boot-security-adapter.version>
     </properties>
     <distributionManagement>
         <snapshotRepository>
@@ -96,6 +97,16 @@
                 <version>${spring-boot.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.wizzdi</groupId>
+                <artifactId>flexicore-boot-security-bearer-jwt</artifactId>
+                <version>${flexicore-boot-security-bearer-jwt.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.wizzdi</groupId>
+                <artifactId>flexicore-boot-security-adapter</artifactId>
+                <version>${flexicore-boot-security-adapter.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.wizzdi</groupId>
