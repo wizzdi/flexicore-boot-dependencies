@@ -41,7 +41,7 @@
         <flexicore-boot-swagger.version>1.1.0</flexicore-boot-swagger.version>
         <flexicore-boot-vintage.version>1.1.0</flexicore-boot-vintage.version>
         <flexicore-boot-dynamic-invokers-model.version>1.1.1</flexicore-boot-dynamic-invokers-model.version>
-        <flexicore-security-service.version>1.1.4</flexicore-security-service.version>
+        <flexicore-security-service.version>1.1.5</flexicore-security-service.version>
         <flexicore-security-model.version>1.1.1</flexicore-security-model.version>
         <flexicore-boot-dynamic-invokers-service.version>1.1.4</flexicore-boot-dynamic-invokers-service.version>
 
@@ -53,7 +53,7 @@
         <flexicore-common-user-service.version>1.0.0</flexicore-common-user-service.version>
 
 
-        <flexicore-boot-security-bearer-jwt.version>1.0.2</flexicore-boot-security-bearer-jwt.version>
+        <flexicore-boot-security-bearer-jwt.version>1.0.3</flexicore-boot-security-bearer-jwt.version>
         <flexicore-boot-security-adapter.version>1.0.0</flexicore-boot-security-adapter.version>
     </properties>
     <distributionManagement>
