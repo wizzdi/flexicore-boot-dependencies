@@ -25,8 +25,8 @@
         <spring-boot.version>2.5.2</spring-boot.version>
         <pf4j-spring.version>0.7.0</pf4j-spring.version>
 
-        <flexicore-boot.version>1.2.0</flexicore-boot.version>
-        <flexicore-boot-starter-web.version>1.1.0</flexicore-boot-starter-web.version>
+        <flexicore-boot.version>1.2.1</flexicore-boot.version>
+        <flexicore-boot-starter-web.version>1.1.1</flexicore-boot-starter-web.version>
         <flexicore-boot-starter-data-jpa.version>1.1.0</flexicore-boot-starter-data-jpa.version>
         <resteasy-flexicore-boot-starter.version>1.1.1</resteasy-flexicore-boot-starter.version>
         <flexicore-boot-starter-websocket.version>1.1.0</flexicore-boot-starter-websocket.version>
@@ -42,7 +42,7 @@
         <flexicore-boot-vintage.version>1.1.0</flexicore-boot-vintage.version>
         <flexicore-boot-dynamic-invokers-model.version>1.1.1</flexicore-boot-dynamic-invokers-model.version>
         <flexicore-security-service.version>1.1.5</flexicore-security-service.version>
-        <flexicore-security-model.version>1.1.1</flexicore-security-model.version>
+        <flexicore-security-model.version>1.1.2</flexicore-security-model.version>
         <flexicore-boot-dynamic-invokers-service.version>1.1.4</flexicore-boot-dynamic-invokers-service.version>
 
         <flexicore-base-model.version>2.1.1</flexicore-base-model.version>
@@ -53,8 +53,8 @@
         <flexicore-common-user-service.version>1.0.0</flexicore-common-user-service.version>
 
 
-        <flexicore-boot-security-bearer-jwt.version>1.0.5</flexicore-boot-security-bearer-jwt.version>
-        <flexicore-boot-security-adapter.version>1.0.2</flexicore-boot-security-adapter.version>
+        <flexicore-boot-security-bearer-jwt.version>1.0.6</flexicore-boot-security-bearer-jwt.version>
+        <flexicore-boot-security-adapter.version>1.0.3</flexicore-boot-security-adapter.version>
     </properties>
     <distributionManagement>
         <snapshotRepository>
