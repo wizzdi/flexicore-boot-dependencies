@@ -4,7 +4,7 @@
 
     <groupId>com.wizzdi</groupId>
     <artifactId>flexicore-boot-dependencies</artifactId>
-    <version>2.1.13-SNAPSHOT</version>
+    <version>2.1.13</version>
     <packaging>pom</packaging>
     <name>FlexiCore Boot Dependencies</name>
     <description>flexicore Boot Dependencies</description>
@@ -86,7 +86,7 @@
         <connection>scm:git:git://wizzdi/flexicore-boot-dependencies.git</connection>
         <developerConnection>scm:git:git@github.com:wizzdi/flexicore-boot-dependencies.git</developerConnection>
         <url>https://github.com/wizzdi/flexicore-boot-dependencies</url>
-        <tag>flexicore-boot-dependencies-${version}</tag>
+        <tag>flexicore-boot-dependencies-2.1.13</tag>
     </scm>
 
     <dependencyManagement>
