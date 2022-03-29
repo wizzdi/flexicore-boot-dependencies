@@ -53,7 +53,7 @@
         <flexicore-common-user-service.version>1.0.0</flexicore-common-user-service.version>
 
 
-        <flexicore-boot-security-bearer-jwt.version>1.0.6</flexicore-boot-security-bearer-jwt.version>
+        <flexicore-boot-security-bearer-jwt.version>1.0.7</flexicore-boot-security-bearer-jwt.version>
         <flexicore-boot-security-adapter.version>1.0.3</flexicore-boot-security-adapter.version>
     </properties>
     <distributionManagement>
