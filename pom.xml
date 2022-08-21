@@ -46,7 +46,7 @@
         <flexicore-boot-dynamic-invokers-service.version>1.2.1</flexicore-boot-dynamic-invokers-service.version>
 
         <flexicore-base-model.version>2.2.1</flexicore-base-model.version>
-        <flexicore-base-service.version>2.2.3</flexicore-base-service.version>
+        <flexicore-base-service.version>2.2.5</flexicore-base-service.version>
 
         <flexicore-boot-starter-data-rest.version>1.0.1</flexicore-boot-starter-data-rest.version>
         <flexicore-common-user-model.version>1.1.0</flexicore-common-user-model.version>
