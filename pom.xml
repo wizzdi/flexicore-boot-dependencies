@@ -47,7 +47,7 @@
         <flexicore-boot-dynamic-invokers-model.version>2.0.0</flexicore-boot-dynamic-invokers-model.version>
         <flexicore-security-service.version>2.0.2</flexicore-security-service.version>
         <flexicore-security-model.version>2.0.1</flexicore-security-model.version>
-        <flexicore-boot-dynamic-invokers-service.version>2.0.0</flexicore-boot-dynamic-invokers-service.version>
+        <flexicore-boot-dynamic-invokers-service.version>2.0.1</flexicore-boot-dynamic-invokers-service.version>
 
         <flexicore-base-model.version>3.0.1</flexicore-base-model.version>
         <flexicore-base-service.version>3.0.2</flexicore-base-service.version>
