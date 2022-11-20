@@ -50,7 +50,7 @@
         <flexicore-boot-dynamic-invokers-service.version>2.0.1</flexicore-boot-dynamic-invokers-service.version>
 
         <flexicore-base-model.version>3.0.1</flexicore-base-model.version>
-        <flexicore-base-service.version>3.0.2</flexicore-base-service.version>
+        <flexicore-base-service.version>3.0.3</flexicore-base-service.version>
 
         <!--<flexicore-boot-starter-data-rest.version>1.0.1</flexicore-boot-starter-data-rest.version>-->
         <flexicore-common-user-model.version>2.0.0</flexicore-common-user-model.version>
