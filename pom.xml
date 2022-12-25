@@ -31,7 +31,6 @@
         <resteasy-flexicore-boot-starter.version>3.0.0-SNAPSHOT</resteasy-flexicore-boot-starter.version>
         <flexicore-boot-starter-websocket.version>3.0.0-SNAPSHOT</flexicore-boot-starter-websocket.version>
         <flexicore-boot-starter-actuator.version>3.0.0-SNAPSHOT</flexicore-boot-starter-actuator.version>
-        <flexicore-boot-starter-multipart.version>3.0.0-SNAPSHOT</flexicore-boot-starter-multipart.version>
         <dynamic-annoatations-service.version>3.0.0-SNAPSHOT</dynamic-annoatations-service.version>
         <flexicore-boot-starter-data-jpa-eclipselink.version>3.0.0-SNAPSHOT</flexicore-boot-starter-data-jpa-eclipselink.version>
         <dynamic-properties-converter-postgresql.version>3.0.0-SNAPSHOT</dynamic-properties-converter-postgresql.version>
