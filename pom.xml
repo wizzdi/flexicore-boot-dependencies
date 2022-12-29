@@ -44,12 +44,12 @@
 
         <flexicore-boot-vintage.version>3.0.0</flexicore-boot-vintage.version>
         <flexicore-boot-dynamic-invokers-model.version>3.0.0</flexicore-boot-dynamic-invokers-model.version>
-        <flexicore-security-service.version>3.0.0</flexicore-security-service.version>
+        <flexicore-security-service.version>3.0.1</flexicore-security-service.version>
         <flexicore-security-model.version>3.0.0</flexicore-security-model.version>
         <flexicore-boot-dynamic-invokers-service.version>3.0.0</flexicore-boot-dynamic-invokers-service.version>
 
         <flexicore-base-model.version>4.0.0</flexicore-base-model.version>
-        <flexicore-base-service.version>4.0.0</flexicore-base-service.version>
+        <flexicore-base-service.version>4.0.1</flexicore-base-service.version>
 
         <!--<flexicore-boot-starter-data-rest.version>1.0.1</flexicore-boot-starter-data-rest.version>-->
         <flexicore-common-user-model.version>3.0.0</flexicore-common-user-model.version>
